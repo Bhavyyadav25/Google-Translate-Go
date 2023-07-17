@@ -1,4 +1,4 @@
-module github.com/Bhavyyadav25/google-translate
+module github.com/Bhavyyadav25/Google-Translate-Go
 
 go 1.15
 
