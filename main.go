@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Bhavyyadav25/google-translate/cli"
+	"github.com/Bhavyyadav25/Google-Translate-Go/cli"
 )
 
 var wg sync.WaitGroup
